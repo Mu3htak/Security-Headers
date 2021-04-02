@@ -27,6 +27,3 @@ def check_headers():
                 
 
 check_headers()
-
-'''for typ,data, in headers.items():
-    print("%s : %s" % (typ,data))'''
